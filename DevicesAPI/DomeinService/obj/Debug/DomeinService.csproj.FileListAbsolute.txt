@@ -1,0 +1,9 @@
+D:\DK\DevicesAPI\DomeinService\bin\Debug\DomeinService.dll
+D:\DK\DevicesAPI\DomeinService\bin\Debug\DomeinService.pdb
+D:\DK\DevicesAPI\DomeinService\bin\Debug\Domein.dll
+D:\DK\DevicesAPI\DomeinService\bin\Debug\Infrastructyre.dll
+D:\DK\DevicesAPI\DomeinService\bin\Debug\Domein.pdb
+D:\DK\DevicesAPI\DomeinService\bin\Debug\Infrastructyre.pdb
+D:\DK\DevicesAPI\DomeinService\obj\Debug\DomeinService.csprojResolveAssemblyReference.cache
+D:\DK\DevicesAPI\DomeinService\obj\Debug\DomeinService.dll
+D:\DK\DevicesAPI\DomeinService\obj\Debug\DomeinService.pdb

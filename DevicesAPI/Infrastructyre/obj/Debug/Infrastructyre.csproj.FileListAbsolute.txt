@@ -1,0 +1,5 @@
+D:\DK\DevicesAPI\Infrastructyre\bin\Debug\Infrastructyre.dll
+D:\DK\DevicesAPI\Infrastructyre\bin\Debug\Infrastructyre.pdb
+D:\DK\DevicesAPI\Infrastructyre\obj\Debug\Infrastructyre.csprojResolveAssemblyReference.cache
+D:\DK\DevicesAPI\Infrastructyre\obj\Debug\Infrastructyre.dll
+D:\DK\DevicesAPI\Infrastructyre\obj\Debug\Infrastructyre.pdb

@@ -1,0 +1,5 @@
+D:\DK\DevicesAPI\Domein\bin\Debug\Domein.dll
+D:\DK\DevicesAPI\Domein\bin\Debug\Domein.pdb
+D:\DK\DevicesAPI\Domein\obj\Debug\Domein.csprojResolveAssemblyReference.cache
+D:\DK\DevicesAPI\Domein\obj\Debug\Domein.dll
+D:\DK\DevicesAPI\Domein\obj\Debug\Domein.pdb
